@@ -61,7 +61,7 @@ Aplikasi menyediakan tampilan antarmuka utama yang berisi:
 
 ### 2. Import Database
   - Buka phpMyAdmin / MySQL.
-  - Buat database baru dengan nama: contact_db
+  - Buat database baru dengan nama: contact_manager
   - Import file SQL (jika tersedia) atau buat tabel kontak sesuai struktur yang digunakan aplikasi.
 
 ### 3. Konfigurasi Database
